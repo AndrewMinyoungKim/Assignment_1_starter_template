@@ -8,6 +8,6 @@ This is Andrew's repo.
 
 ![](Education_Pathways/images/act3snap.png)
 
-### Activity 3
+### Activity 4
 
 ![](Education_Pathways/images/act4snap.png)
