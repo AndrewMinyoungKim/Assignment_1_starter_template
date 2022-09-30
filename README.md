@@ -1,4 +1,4 @@
-This is Andrew's repo.
+This is Andrew's repo, using template from: https://github.com/ECE444-2022Fall/Assignment_1_starter_template
 
 ### Activity 1
 
