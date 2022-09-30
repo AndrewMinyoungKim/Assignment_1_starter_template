@@ -1,5 +1,9 @@
 This is Andrew's repo.
 
+### Activity 1
+
+lab3 is the default branch of this repository.
+
 ### Activity 2
 
 ![](Education_Pathways/images/act2snap.png)
