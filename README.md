@@ -11,4 +11,5 @@ This is Andrew's repo.
 
 ### Activity 4
 
-![](Education_Pathways/images/act4snap.png)
+![](Education_Pathways/images/act4snap.PNG)
+![](Education_Pathways/images/act4snap2.PNG)
